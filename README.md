@@ -1,4 +1,5 @@
 # electron-vue
+![Farmers Market Finder Demo](gif/first.gif)
 ## use electron@6 and vuecli@4 and vuetify@2.1
 
 ## Project setup
