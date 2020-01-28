@@ -1,5 +1,5 @@
 # electron-vue
-##use electron@6 and vuecli@4 and vuetify@2.1
+## use electron@6 and vuecli@4 and vuetify@2.1
 
 ## Project setup
 ```
