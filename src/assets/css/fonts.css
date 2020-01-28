@@ -1,0 +1,10 @@
+@font-face 
+{
+    font-family: 'IRANSans';
+    src: url('../fonts/IRANSans-UltraLight.eot');
+    src: url('../fonts/IRANSans-UltraLight.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/IRANSans-UltraLight.woff') format('woff'),
+    url('../fonts/IRANSans-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
